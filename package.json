@@ -1,0 +1,19 @@
+{
+  "name": "embibe_automation",
+  "version": "1.0.0",
+  "description": "embibe",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhattcharyaCodes/embibe_automation.git"
+  },
+  "author": "Puja Bhattacharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhattcharyaCodes/embibe_automation/issues"
+  },
+  "homepage": "https://github.com/BhattcharyaCodes/embibe_automation#readme"
+}
